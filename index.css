@@ -1,0 +1,20 @@
+@charset "utf-8";
+ul,li{
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+ul{
+    display: none;
+}
+h3{
+    margin:0;
+    background: cornflowerblue;
+}
+div{
+    text-indent:20px;
+    width:200px;
+}
+.active{
+    background: coral;
+}
